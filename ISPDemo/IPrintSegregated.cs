@@ -15,7 +15,7 @@ namespace ISPDemo
 
     }
 
-    // and advance printer can perform fax and prontduplex operation
+    // and advance printer can perform fax and printduplex operation
     interface IFaxContent
     {
         bool FaXContent(string content);
