@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCloseDemo", "OpenCloseD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovDemo", "LiskovDemo\LiskovDemo.csproj", "{7E9353F1-63E1-4799-9157-EE82C7D11B14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSolution", "LiskovSolution\LiskovSolution.csproj", "{3B199BF8-1513-48C9-A099-4CDDE822D25F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7E9353F1-63E1-4799-9157-EE82C7D11B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E9353F1-63E1-4799-9157-EE82C7D11B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E9353F1-63E1-4799-9157-EE82C7D11B14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B199BF8-1513-48C9-A099-4CDDE822D25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B199BF8-1513-48C9-A099-4CDDE822D25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B199BF8-1513-48C9-A099-4CDDE822D25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B199BF8-1513-48C9-A099-4CDDE822D25F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
