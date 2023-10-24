@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovDemo", "LiskovDemo\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSolution", "LiskovSolution\LiskovSolution.csproj", "{3B199BF8-1513-48C9-A099-4CDDE822D25F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversion", "DependencyInversion\DependencyInversion.csproj", "{93E917FD-EAF6-44CF-8C1B-CD4DAF5FA4E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionSolotuion", "DependencyInversionSolotuion\DependencyInversionSolotuion.csproj", "{631D415B-BEED-428E-9B3D-7BDCFD3FBEAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{3B199BF8-1513-48C9-A099-4CDDE822D25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B199BF8-1513-48C9-A099-4CDDE822D25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B199BF8-1513-48C9-A099-4CDDE822D25F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93E917FD-EAF6-44CF-8C1B-CD4DAF5FA4E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E917FD-EAF6-44CF-8C1B-CD4DAF5FA4E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E917FD-EAF6-44CF-8C1B-CD4DAF5FA4E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E917FD-EAF6-44CF-8C1B-CD4DAF5FA4E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{631D415B-BEED-428E-9B3D-7BDCFD3FBEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631D415B-BEED-428E-9B3D-7BDCFD3FBEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631D415B-BEED-428E-9B3D-7BDCFD3FBEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631D415B-BEED-428E-9B3D-7BDCFD3FBEAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
